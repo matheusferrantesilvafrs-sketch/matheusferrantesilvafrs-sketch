@@ -18,7 +18,24 @@
 
 ## 🛠️ Technologies
 
-C# • .NET • SQL • MySQL • Python • Git • GitHub
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusferrantesilvafrs-sketch&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusferrantesilvafrs-sketch&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -34,6 +51,12 @@ C# • .NET • SQL • MySQL • Python • Git • GitHub
 
 ## 🌎 Connect with Me
 
-LinkedIn: (seu link)
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-ferrante-silva">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-Instagram: (seu link)
+  <a href="https://www.instagram.com/matheusferrantesilvafrs">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
