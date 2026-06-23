@@ -41,11 +41,9 @@
 
 ## 📈 Current Focus
 
-- GFT Start #7 .NET
-- SQL Database Specialist
-- Backend Development
-- Portfolio Projects
-- Cloud Fundamentals (AWS)
+- C#
+- SQL
+- .NET
 
 ---
 
