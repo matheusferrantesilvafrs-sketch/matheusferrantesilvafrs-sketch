@@ -34,13 +34,8 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheusferrantesilvafrs-sketch&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matheusferrantesilvafrs-sketch&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=matheusferrantesilvafrs-sketch&theme=tokyonight&hide_border=true" />
 </p>
 ---
 
