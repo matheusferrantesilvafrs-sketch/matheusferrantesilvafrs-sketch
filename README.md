@@ -34,14 +34,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusferrantesilvafrs-sketch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusferrantesilvafrs-sketch&layout=compact&theme=tokyonight"/>
-
-</div>
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusferrantesilvafrs-sketch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusferrantesilvafrs-sketch&layout=compact&theme=tokyonight"/>
+</p>
 ---
 
 ## 📈 Current Focus
