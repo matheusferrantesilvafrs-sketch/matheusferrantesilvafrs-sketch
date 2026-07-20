@@ -1,60 +1,125 @@
-<h1 align="center">Hi, I'm Matheus Ferrante Silva 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student+%40+Mackenzie;Backend+Developer+in+Training;Studying+C%23+.NET+SQL+and+AWS;Building+Projects+and+Growing+Every+Day" />
-</p>
+# Olá, eu sou Matheus Ferrante Silva 👋
+
+### Desenvolvimento Backend • C# • .NET • ASP.NET Core
+
+Desenvolvo aplicações backend com foco em APIs, persistência de dados, organização de código e resolução de problemas reais.
+
+<br>
+
+<a href="www.linkedin.com/in/matheus-ferrante-silva-252b55369">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil_profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:matheusferrantesilva@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
 
 ---
 
-## 💻 About me
+## 👨‍💻 Sobre mim
 
-- 🎓 Computer Engineering Student at Mackenzie University
-- 🚀 Backend Developer in Training
-- 📚 Currently studying C#, .NET, SQL and AWS
-- 🔧 Technical background in Electronics
-- 🎯 Goal: Build a strong career in Software Development
+Sou estudante de **Engenharia da Computação na Universidade Presbiteriana Mackenzie** e técnico em Eletrônica pela ETEC Professor Aprígio Gonzaga.
+
+Atuo no desenvolvimento de aplicações backend utilizando **C#, .NET, ASP.NET Core, Entity Framework Core e MySQL**. Meus projetos envolvem criação de APIs REST, operações CRUD, integração com bancos de dados e organização de aplicações em diferentes camadas.
+
+Tenho experiência profissional em ambientes técnicos e administrativos, nos quais desenvolvi raciocínio analítico, organização, responsabilidade com prazos, atenção aos detalhes e capacidade de lidar com grandes volumes de informações.
 
 ---
 
-## 🛠️ Technologies
+## 🚀 Projeto em destaque
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+### 📌 JobTracker
 
-<h2 align="center">📊 GitHub Stats</h2>
+Aplicação para gerenciamento de candidaturas, desenvolvida com integração entre backend, API REST e banco de dados.
 
-## 📊 GitHub Stats
+**Principais funcionalidades:**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=matheusferrantesilvafrs-sketch&theme=tokyonight&hide_border=true" />
-</p>
+- Cadastro de candidaturas;
+- Consulta e listagem de registros;
+- Edição e exclusão de dados;
+- Persistência em banco de dados;
+- Integração por API REST;
+- Documentação e testes de endpoints com Swagger.
+
+**Tecnologias:**
+
+`C#` `.NET` `ASP.NET Core` `Entity Framework Core` `MySQL` `Swagger`
+
+<a href="[COLE_AQUI_O_LINK_DO_JOBTRACKER](https://github.com/matheusferrantesilvafrs-sketch/JobTrack)">
+  <img src="https://img.shields.io/badge/Acessar_repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do JobTracker"/>
+</a>
+
 ---
 
-## 📈 Current Focus
+## 🛠️ Tecnologias
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C# e .NET"/>
+</p>
 
 - C#
-- SQL
 - .NET
+- ASP.NET Core
+- Entity Framework Core
+- APIs REST
+
+### Banco de dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+</p>
+
+- MySQL
+- SQL
+- Modelagem e persistência de dados
+
+### Ferramentas e ambiente
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,visualstudio,vscode" alt="Git, GitHub, Docker, Visual Studio e VS Code"/>
+</p>
+
+- Git e GitHub
+- Docker
+- Swagger
+- Visual Studio
+- Visual Studio Code
+
+### Conhecimentos complementares
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" alt="HTML, CSS, JavaScript e Python"/>
+</p>
 
 ---
 
-## 🌎 Connect with Me
+## 🎯 Áreas de atuação
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/matheus-ferrante-silva">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+- Desenvolvimento backend com C# e .NET;
+- Construção e integração de APIs REST;
+- Persistência de dados com Entity Framework Core;
+- Bancos de dados relacionais;
+- Organização e documentação de projetos;
+- Conteinerização de aplicações com Docker.
 
-  <a href="https://www.instagram.com/matheusferrantesilvafrs">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="www.linkedin.com/in/matheus-ferrante-silva-252b55369">
+  <img src="https://img.shields.io/badge/LinkedIn-Matheus_Ferrante_Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:matheusferrantesilva@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Entre_em_contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
